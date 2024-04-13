@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reminder-app/static/css/main.b9b558c2.css",
-    "main.js": "/reminder-app/static/js/main.1ace5444.js",
-    "static/js/453.cf72e860.chunk.js": "/reminder-app/static/js/453.cf72e860.chunk.js",
-    "index.html": "/reminder-app/index.html",
-    "main.b9b558c2.css.map": "/reminder-app/static/css/main.b9b558c2.css.map",
-    "main.1ace5444.js.map": "/reminder-app/static/js/main.1ace5444.js.map",
-    "453.cf72e860.chunk.js.map": "/reminder-app/static/js/453.cf72e860.chunk.js.map"
+    "main.css": "./static/css/main.b9b558c2.css",
+    "main.js": "./static/js/main.a2b229e6.js",
+    "static/js/453.cf72e860.chunk.js": "./static/js/453.cf72e860.chunk.js",
+    "index.html": "./index.html",
+    "main.b9b558c2.css.map": "./static/css/main.b9b558c2.css.map",
+    "main.a2b229e6.js.map": "./static/js/main.a2b229e6.js.map",
+    "453.cf72e860.chunk.js.map": "./static/js/453.cf72e860.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9b558c2.css",
-    "static/js/main.1ace5444.js"
+    "static/js/main.a2b229e6.js"
   ]
 }
